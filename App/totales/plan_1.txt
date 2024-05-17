@@ -1,0 +1,13 @@
+Tu total a pagar es de :$1500
+
+Tu total a pagar es de $2600  
+
+Tu total a pagar es de $3600 
+
+hacerlo diccionario heredado
+
+padre_dict = {'key1': 'value1', 'key2': 'value2'}
+hijo_dict = {'key3': 'value3'}
+
+hijo_dict.update(padre_dict)
+print(hijo_dict)  # Salida: {'key3': 'value3', 'key1': 'value1', 'key2': 'value2'}

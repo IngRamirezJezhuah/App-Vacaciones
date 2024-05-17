@@ -1,0 +1,6 @@
+Paquete 1:$1500 El paquete incluye transportes y alimentos ademas de que 
+viene con un bufett incluido de barra libre todo esto por 4 dias
+Paquete 2:$2600 El paquete incluye transportes y alimentos ademas de que 
+viene con un bufett incluido de barra libre todo esto por 7 dias
+Paquete 3:$3600 El paquete incluye transportes y alimentos ademas de que 
+viene con un bufett incluido de barra libre todo esto por 12 dias
